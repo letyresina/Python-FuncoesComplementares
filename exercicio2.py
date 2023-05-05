@@ -7,3 +7,5 @@
 
 # ler esse site https://mundoeducacao.uol.com.br/matematica/numeros-triangulares.htm#:~:text=Portanto%2C%20os%20n%C3%BAmeros%20triangulares%20podem,1%20e%20primeiro%20termo%201. para fazer
 
+def triagular(num):
+    print(num)
